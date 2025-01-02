@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphqlTest", "GraphqlTest\GraphqlTest.csproj", "{FCDC4791-00E3-47A9-9C74-4DE84378556E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphqlDBTest", "GraphqlDBTest\GraphqlDBTest.csproj", "{27CED05D-D36D-46F9-B9A8-CE832519D4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FCDC4791-00E3-47A9-9C74-4DE84378556E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCDC4791-00E3-47A9-9C74-4DE84378556E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCDC4791-00E3-47A9-9C74-4DE84378556E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CED05D-D36D-46F9-B9A8-CE832519D4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CED05D-D36D-46F9-B9A8-CE832519D4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CED05D-D36D-46F9-B9A8-CE832519D4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CED05D-D36D-46F9-B9A8-CE832519D4DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
